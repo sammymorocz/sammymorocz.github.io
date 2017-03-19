@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "Chats Over Popcorn"
-description: "Some personal thoughts about all kinds of movie and shows from a movie lover."
+description: "Some personal thoughts about all kinds of movies and shows from a movie lover."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
@@ -32,7 +32,7 @@ owner:
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: Some personal thoughts about all kinds of movies and shows from a movie lover.
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
