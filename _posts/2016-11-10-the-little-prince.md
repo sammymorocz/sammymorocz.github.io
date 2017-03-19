@@ -3,6 +3,7 @@ layout: article
 title: The Little Prince&#58; Movie VS Book
 image:
   teaser:  the-little-prince.jpg
+comments: true
 ---
 Everyone’s dream is to see the perfect film adaptation to their all-time favorite book. Or, at least that’s my dream. I remember watching the trailer for the animated
 adaptation of The Little Prince last year and being very nervous for it. It had so many expectations to fulfill, such an incredible story to tell.

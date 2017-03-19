@@ -3,6 +3,7 @@ layout: article
 title: Top Three Trilogies
 image:
   teaser: top-three-trilogies.gif
+comments: true
 ---
 3 has always been my favorite number. Everything good comes in 3’s. It creates a perfect balance where no 1 part of the 3 can be without the other two. Growing up with
 two siblings really showed me how important is to have balance. Not to mention that the number 3 has always brought me luck, at least that’s what I like to think.

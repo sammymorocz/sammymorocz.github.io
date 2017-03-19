@@ -3,6 +3,7 @@ layout: article
 title: A Halloween Film For Everyone
 image:
   teaser: halloween-films.png
+comments: true
 ---
 Oh, Halloween. A time when suddenly everything is pumpkin themed and eating way too much candy is an achievement rather than something you want keep to yourself (guilty
 as charged). Chilly air, colorful trees, pumpkin spiced – everything, and of course, some of the best types of movies of the year.

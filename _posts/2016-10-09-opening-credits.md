@@ -3,6 +3,7 @@ layout: article
 title: Opening Credits
 image:
   teaser: opening-credits.jpg
+comments: true
 ---
 I’ve wanted to do this for a few months but didn’t think I would ever have the guts. Until now. Not sure what has changed but if I don’t do this now I know I never will.
 Hello! Odds are you are here because you enjoy watching movies to some degree and in the dawn of Netflix, who doesn’t?

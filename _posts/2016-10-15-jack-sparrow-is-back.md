@@ -3,6 +3,7 @@ layout: article
 title: Jack Sparrow is back!
 image:
   teaser: jack-sparrow.jpg
+comments: true
 ---
 By now, I’m sure everyone has seen the new Pirates of the Caribbean: Dead Men Tell No Tells (DMTNT) trailer. If you haven’t, here you go:
 <a href="https://www.youtube.com/watch?v=1xo3af_6_Jk" target="_blank">Teaser Trailer: Pirates of the Caribbean: Dead Men Tell No Tales</a>. You’re welcome!

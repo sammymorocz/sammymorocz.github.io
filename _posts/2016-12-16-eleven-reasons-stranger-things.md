@@ -3,6 +3,7 @@ layout: article
 title: Eleven Reasons to Watch Stranger Things
 image:
   teaser: stranger-things.jpg
+comments: true
 ---
 Hello fellow movie lovers! Today we are not talking about a movie. (Gasp). But don’t go away just yet!
 

@@ -3,6 +3,7 @@ layout: article
 title: 12 Days of Christmas!
 image:
   teaser: 12-days-of-christmas.jpg
+comments: true
 ---
 Christmas is my ultimate favorite holiday and I do not take it lightly. It’s the one time a year where I don’t have to worry about school, get to spend time with my
 family, listen to Mariah Carey on repeat, and watch amazing movies! There are so many to choose from that it was incredibly hard to compile my top 12 favorite. This will
