@@ -8,6 +8,7 @@
 
 #masthead {
 	padding: $gutter;
+	margin-bottom: -30px;
 	z-index: 5;
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
@@ -336,7 +337,8 @@
 #site-footer {
 	@include outer-container;
 	margin-top: (3 * (0px + $doc-line-height));
-	margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
+	// margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
+	margin-top: -6rem;
 	padding-bottom: $gutter;
 	font-family: $alt-font;
   /* Copyright text */
