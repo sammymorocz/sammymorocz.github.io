@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Contact
+  url: /contact/
+  excerpt: "Reach out to me with any comments or feedback!"
+  image: 400x250.gif
