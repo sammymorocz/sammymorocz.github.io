@@ -34,7 +34,7 @@ owner:
     ad-slot:
   bio: Some personal thoughts about all kinds of movies and shows from a movie lover.
   avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  disqus-shortname: chatsoverpopcorn
 
 
 include:
