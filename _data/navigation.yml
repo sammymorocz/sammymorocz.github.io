@@ -4,3 +4,8 @@
   url: /contact/
   excerpt: "Reach out to me with any comments or feedback!"
   image: 400x250.gif
+
+- title: About
+  url: /About/
+  excerpt: "Learn more about Me!"
+  image: 400x250.gif
