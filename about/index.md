@@ -8,6 +8,8 @@ share: false
 
 Hello! I'm Sammy. I'm 22 years old and a writer and enthusiast of all things movies/tv shows related. I am no expert and mostly write based only on my opinions. I started this blog to share my thoughts and hopefully hear some of yours! If there is anything in particular you would like me to write about, please feel free to leave a comment. Happy reading!
 
+Follow me <a href="www.instagram.com/sammymorocz">here</a> for updates!
+
 <p class="tagline">
     Breakfast at Tiffany's is my favorite movie! Have a glimpse below
 </p>
