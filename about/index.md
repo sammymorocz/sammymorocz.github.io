@@ -6,7 +6,7 @@ share: false
 
 <img class="img-left" src="/images/11990516_10208135454572104_3120263246282121407_n.jpg" style="width:228px;height:228px;"/>
 
-Hello! I'm Sammy. I'm 22 years old and a writer and enthusiast of all things movies/tv shows related. I am no expert and mostly write based only on my opinions. I started this blog to share my thoughts and hopefully hear some of yours! If there is anything in particular you would like me to write about, please feel free to leave a comment. Happy reading!
+Hello! I'm Sammy. I am a Venezuelan, 22 year old girl and a writer and enthusiast of all things movies/tv shows related. I am no expert and mostly write based only on my opinions. I started this blog to share my thoughts and hopefully hear some of yours! If there is anything in particular you would like me to write about, please feel free to leave a comment. Happy reading!
 
 Follow me <a href="http://www.instagram.com/sammymorocz">here</a> for updates!
 
