@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Contact"
+title: "About"
 share: false
 ---
 
