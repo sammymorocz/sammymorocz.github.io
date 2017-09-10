@@ -4,4 +4,4 @@ title: "About"
 share: false
 ---
 
-This is about!
+<img class="img-center" src="/images/11990516_10208135454572104_3120263246282121407_n.jpg"/>
