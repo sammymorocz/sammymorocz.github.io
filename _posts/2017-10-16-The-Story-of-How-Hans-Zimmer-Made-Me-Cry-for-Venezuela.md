@@ -2,7 +2,7 @@
 layout: article
 title: The Story of How Hans Zimmer Made Me Cry for Venezuela
 image:
-  teaser: HansZimmer.JPG
+  teaser: HansZimmer.jpg
 comments: true
 ---
 
