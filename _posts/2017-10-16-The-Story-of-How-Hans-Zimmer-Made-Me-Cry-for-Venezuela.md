@@ -10,23 +10,22 @@ comments: true
     &#124;  Lights  &#124;  Camera  &#124;  Action  &#124;
 </p>
 
-I know what most of you are thinking. Who is Hans Zimmer? If you’ve watched the Lion King, you already know who it is. Or at least, what he does. Academy Award-winning composer Hans Zimmer is credited for composing a variety of magnificent scores for a lot of renowned films. Most which you’ve probably heard of. Here’s a quick list of my favorites:
--	Lion King (while Elton John composed the soundtrack, Hans Zimmer composed the score*) 
--	Gladiator
--	The Dark Knight (Batman Trilogy)
--	Inception
--	Pirates of the Caribbean 
--	The DaVinci Code
-
-Among many, many, many others. Seriously. Name a movie and he has probably scored it. 
+I know what most of you are thinking. Who is Hans Zimmer? If you’ve watched the Lion King, you already know who he is. Or at least, what he does. Academy Award-winning composer Hans Zimmer is credited for composing a variety of scores for a lot of renowned films. Most which you’ve probably heard of. Here’s a quick list of my favorites:
+-          Lion King (while Elton John composed the soundtrack, Hans Zimmer composed the score*)
+-          Gladiator
+-          The Dark Knight (in the Batman Trilogy)
+-          Inception
+-          Pirates of the Caribbean
+-          The DaVinci Code
 
 <img class="img-center" src="/images/HansZimmerGif7.gif"/>
 
-Anyway, from the moment I first watched Spirit, the DreamWorks animated movie about a horse that finds himself captured from the wild by cowboys, I began my love for Zimmer’s music. Although his compositions are sometimes criticized as being repetitive, I find the similarities between compositions to be more of his signature rather than a lack of creativity. Zimmer’s scores give each film their unique flavors, fills them with emotions, and are crucial to telling each respective story. One of my favorite themes he has written is called “At Wit’s End”, which is played in Pirates of the Caribbean. It stands out to me due to its dark but hopeful theme, created by the melodious but powerful string instruments. The score of a movie is the soul of the story and Hans Zimmer’s compositions have created some of the most memorable, and personal favorite, scores in the entire film industry. 
+Among many, many, many others. Seriously. Name a movie and he has probably scored it.
+Anyway, from the moment I first watched Spirit, the DreamWorks animated movie about a wild stallion finding freedom, I began my love for Zimmer’s music. Although his compositions are sometimes criticized as being repetitive, I find the similarities between compositions to be more of his signature rather than a lack of creativity. Zimmer’s scores give each film their unique flavors, fills them with emotions, and are crucial to telling each respective story. One of my favorite themes he has written is called “At Wit’s End”, which is played in Pirates of the Caribbean. It stands out to me due to its dark but hopeful theme, created by the melodious but powerful string instruments. The score of a movie is the soul of the story and Hans Zimmer’s compositions have created some of the most memorable, and personal favorite, scores in the entire film industry.
 
 <img class="img-center" src="/images/HansZimmer1.JPG"/>
 
-This summer I had the pleasure of seeing Hans Zimmer perform live on his world tour, something he had never done before as a movie composer and is in general unheard of. He is touring with a band made up of massively talented musicians and is performing his emotional melodies in a thrilling and engaging show full of popular scores and light effects. The large theater was packed with an enthusiastic crowd that are undoubtedly film nerds like me. From the moment his show started, with a medley of some of his smaller films, I was completely impressed as the lights introduced more and more members of the band, finally showing the chorus line, an important part of many of Zimmer’s scores. His show was divided into sets, each emphasizing one of his biggest films. His Lion King medley included vocals performed by Lebohand “Lebo M.” Morake, who arranged and performed the original music for The Lion King movies and stage production and is probably most famous for his vocals in “Circle of Life”. Each medley was incredible and honestly deserve an entire post of their own. However, I want to specifically talk for a second about the Gladiator medley and why it brought me to tears the instant it began. 
+This summer I had the pleasure of seeing Hans Zimmer perform live on his world tour, something he had never done before as a movie composer and is in general unheard of. He is touring with a band made up of massively talented musicians and is performing his emotional melodies in a thrilling and engaging show full of popular scores and light effects. The large theater was packed with an enthusiastic crowd that are undoubtedly film nerds like me. From the moment his show started, with a medley of some of his smaller films, I was completely impressed as the lights introduced more and more members of the band, finally showing the chorus line, an important part of many of Zimmer’s scores. His show was divided into sets, each emphasizing one of his biggest films. His Lion King medley included vocals performed by Lebohand “Lebo M.” Morake, who arranged and performed the original music for The Lion King movies and stage production and is probably most famous for his vocals in “Circle of Life”. Each medley was incredible and honestly deserve an entire post of their own. However, I want to specifically talk for a second about the Gladiator medley and why it brought me to tears the instant it began.
 
 <img class="img-center" src="/images/HansZimmer4.JPG"/>
 
@@ -34,16 +33,20 @@ If you have not seen Gladiator, I only suggest that you watch it whenever you ca
 
 <img class="img-center" src="/images/HansZimmerGif8.gif"/>
 
-If you have never taken the time to notice the score of a movie, try it next time you watch a film. Scores set the lighthearted tone in comedies, the suspension in thrillers, and the despair in movies like Gladiator. When you watch a film, the score dictates what you should feel or what the character and story are trying to convey. And when you listen to a score without the film to accompany, it stands on its own. Sometimes it will even make you think of your own life and help you experience emotions as deep as you experience them when it’s on the big screen. 
+If you have never taken the time to notice the score of a movie, try it next time you watch a film. Scores set the lighthearted tone in comedies, the suspension in thrillers, and the despair in movies like Gladiator. When you watch a film, the score dictates what you should feel or what the character and story are trying to convey. And when you listen to a score without the film to accompany, it stands on its own. Sometimes it will even make you think of your own life and help you experience emotions as deep as you experience them when it’s on the big screen.
 
 <img class="img-center" src="/images/HansZimmerGif9.gif"/>
 
-Hope you enjoyed reading about this anecdote of mine. It was hard to write about music because it is hard to write about things you cannot see. That is why seeing Hans Zimmer live helped me write about what I heard and the feelings I experienced. 
+Hope you enjoyed reading about this anecdote of mine. It was hard to write about music because it is hard to write about things you cannot see. That is why seeing Hans Zimmer live helped me write about what I heard and the feelings I experienced.
 
 <img class="img-center" src="/images/HansZimmerGif10.gif"/>
 
 What is your favorite movie composition? What song or music has taken your experience of watching a film to another level? Leave your comments below!
 * The original score of a film is original music written specifically to accompany a film [Wikipedia] while a movie soundtrack can often include complementary popular music and may not be original to the movie. For example, most Disney movies have a soundtrack (Mulan’s Make a Man Out Of You) and a score (the music played while Mulan fights the Huns).
+
+Here's a video from one of his live performances!
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JE3WSKpe7wc" frameborder="0" allowfullscreen></iframe>
 
 <img class="img-center" src="/images/HansZimmerGif11.gif"/>
 <p class="tagline">
