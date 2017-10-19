@@ -49,6 +49,7 @@ Here's a video from one of his live performances!
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=JE3WSKpe7wc" frameborder="0" allowfullscreen></iframe>
 
 <img class="img-center" src="/images/HansZimmerGif11.gif"/>
+
 <p class="tagline">
     &#124;   Cut   &#124;
 </p>
