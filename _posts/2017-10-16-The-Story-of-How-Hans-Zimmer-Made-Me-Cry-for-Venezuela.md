@@ -44,7 +44,7 @@ Hope you enjoyed reading about this anecdote of mine. It was hard to write about
 
 What is your favorite movie composition? What song or music has taken your experience of watching a film to another level? Leave your comments below!
 
-* The original score of a film is original music written specifically to accompany a film [https://en.wikipedia.org/wiki/Film_score] while a movie soundtrack can often include complementary popular music and may not be original to the movie. For example, most Disney movies have a soundtrack (Mulan’s Make a Man Out Of You) and a score (the music played while Mulan fights the Huns).
+* The original score of a film is original music written specifically to accompany a film [Wikipedia] (https://en.wikipedia.org/wiki/Film_score) while a movie soundtrack can often include complementary popular music and may not be original to the movie. For example, most Disney movies have a soundtrack (Mulan’s Make a Man Out Of You) and a score (the music played while Mulan fights the Huns).
 
 <img class="img-center" src="/images/HansZimmerGif11.gif"/>
 
